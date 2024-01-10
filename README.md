@@ -1,6 +1,6 @@
  Hey, 👋🏻
 - 😗Name : Rohit Jagan 
-- 🧑🏻‍💻Profession : School Student by day and app & game developer by night 🌃
+- 🧑🏻‍💻Profession : School Student by day and app developer by night 🌃
 - 📍Location : Ghaziabad, India 
 - 🤌🏻Programming languages : JAVA, Python, Kotlin, C++, C, JS
 - 💾Database : MySQL, Firebase
